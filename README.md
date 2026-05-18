@@ -1,2 +1,2 @@
 # SummarizeIt
-AI-powered YouTube video summarization tool
+AI-powered YouTube video Summarization tool
